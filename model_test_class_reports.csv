@@ -1,0 +1,36 @@
+model,class,precision,recall,f1,support
+logistic,Internship,0.0,0.0,0.0,1.0
+logistic,Peoplesoft resumes,1.0,1.0,1.0,2.0
+logistic,Reactjs,0.8,1.0,0.8888888888888888,4.0
+logistic,SQL Developer Lightning insight,1.0,1.0,1.0,2.0
+logistic,workday resumes,1.0,1.0,1.0,2.0
+naive_bayes,Internship,0.0,0.0,0.0,1.0
+naive_bayes,Peoplesoft resumes,1.0,0.5,0.6666666666666666,2.0
+naive_bayes,Reactjs,0.6666666666666666,1.0,0.8,4.0
+naive_bayes,SQL Developer Lightning insight,1.0,1.0,1.0,2.0
+naive_bayes,workday resumes,1.0,1.0,1.0,2.0
+svm,Internship,0.0,0.0,0.0,1.0
+svm,Peoplesoft resumes,1.0,1.0,1.0,2.0
+svm,Reactjs,0.8,1.0,0.8888888888888888,4.0
+svm,SQL Developer Lightning insight,1.0,1.0,1.0,2.0
+svm,workday resumes,1.0,1.0,1.0,2.0
+random_forest,Internship,0.0,0.0,0.0,1.0
+random_forest,Peoplesoft resumes,1.0,0.5,0.6666666666666666,2.0
+random_forest,Reactjs,0.6666666666666666,1.0,0.8,4.0
+random_forest,SQL Developer Lightning insight,1.0,1.0,1.0,2.0
+random_forest,workday resumes,1.0,1.0,1.0,2.0
+gradient_boost,Internship,0.0,0.0,0.0,1.0
+gradient_boost,Peoplesoft resumes,1.0,1.0,1.0,2.0
+gradient_boost,Reactjs,0.8,1.0,0.8888888888888888,4.0
+gradient_boost,SQL Developer Lightning insight,1.0,1.0,1.0,2.0
+gradient_boost,workday resumes,1.0,1.0,1.0,2.0
+knn,Internship,0.0,0.0,0.0,1.0
+knn,Peoplesoft resumes,1.0,1.0,1.0,2.0
+knn,Reactjs,0.8,1.0,0.8888888888888888,4.0
+knn,SQL Developer Lightning insight,1.0,1.0,1.0,2.0
+knn,workday resumes,1.0,1.0,1.0,2.0
+adaboost,Internship,0.0,0.0,0.0,1.0
+adaboost,Peoplesoft resumes,1.0,1.0,1.0,2.0
+adaboost,Reactjs,0.8,1.0,0.8888888888888888,4.0
+adaboost,SQL Developer Lightning insight,1.0,1.0,1.0,2.0
+adaboost,workday resumes,1.0,1.0,1.0,2.0

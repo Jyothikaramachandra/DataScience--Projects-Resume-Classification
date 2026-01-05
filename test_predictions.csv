@@ -1,0 +1,703 @@
+index,relpath,filepath,filename,true_label,predicted,text,prob_Internship,prob_Peoplesoft resumes,prob_Reactjs,prob_SQL Developer Lightning insight,prob_workday resumes
+6,Data set\Resumes\Peoplesoft resumes\PeopleSoft DBA_Vivekanand Sayana.docx,unzipped_files\Data set\Resumes\Peoplesoft resumes\PeopleSoft DBA_Vivekanand Sayana.docx,6,Peoplesoft resumes,Peoplesoft resumes,"PeopleSoft Administration
+Vivekanand Sayana                                                                                                                                                                                                           	
+Career Objective: 
+With my valid expertise of 7.5 years in PeopleSoft, I hope to enhance my skill set while adding value to the business, to enable implementation of solutions, which aid the company’s objectives, understanding and anticipating the needs, interests and motivations of the clients and to deliver on time, budget and to quality, delivering value through improving agility, quality and reliability
+Professional Summary:
+Over 7.5 years of experience in PeopleSoft implementation, Support, configuration, migrations, maintenance and administration of Application Server Domains, Process Scheduler Servers, Web Server Domains, PeopleTools Upgrades, Application Updates, PUM, SES and Elastic Search. 
+Experience in integration activities between various PeopleSoft Financials, HRMS, EPM and FSCM environments. 
+Extensively involved in resolving Performance issues.
+Experience in driving Infrastructure Hardware Upgrades, Disaster Recovery Activities. 
+Experience in Health Check for all the PeopleSoft Environments
+Experience in PeopleSoft Database Refreshes from Production to Development and Testing Environments
+Experience in Performance and Tuning of Application Servers, Web Servers
+Performed 3 full life cycle implementations in PeopleSoft.
+Implemented PeopleSoft Internet Architecture (PIA) on Demo, Test, Development and Production instances.
+Experience in PeopleSoft Implementation on PeopleTools 8.56, FSCM 9.2, Web Logic 12.2.1, Tuxedo 12.2.2 and Oracle 12c R2 on Oracle Enterprise Linux 7 and Windows 2012 R2.
+Experience in PeopleSoft Installations of PeopleTools 8.55, HCM 9.2, WebLogic 12.1.3,
+Tuxedo 12.1.3 and People Books 8.55 on Oracle Enterprise Linux 6 and Windows 2012R2
+Experience in PeopleSoft Installations of PeopleTools 8.54, HCM 9.2, Weblogic 12.1.2, Tuxedo 12.1.0 and People books 8.54 on windows 2012 R2 and Oracle Enterprise Linux 6.
+Experience in PeopleSoft Installations of PeopleTools 8.53, FSCM 9.2, Weblogic 10.3.6, Tuxedo 10.3 and People Books 8.53 on windows 2008 R2 and Oracle Enterprise Linux 5.4
+Experience in PeopleSoft Installations of PeopleTools 8.50, HCM 9.1,Weblogic 10.3, Tuxedo 10.3, Oracle 10g R2 and People Books 8.50 on Windows Server 2003 and Oracle Enterprise Linux 5.
+In depth experience on PeopleSoft Update Manager (PUM) for applying PeopleTools patches, Application Bundles on PeopleTools 8.53, 8.54 and HRMS 9.2 and FSCM 9.2 Applications, Using DPK’s to deploy PUM latest Images and DPK’s to Install, Middle tier, App Tier and PeopleTools.
+In Depth Experience in Integration Broker Troubleshooting.
+Proficiency in creation and configuration and administration of Application Server Domains, Process scheduler Domains, Web Server Domains 
+Experience in Reconfiguration of Application Server Domains, Process Scheduler Server Domains and Web Server domains.
+Experience in Project Migrations using Application Designer and Data Migrations using Data Mover
+Experience in generating Pre-compare reports and Post Compare Reports between various environments.
+Experience in setting up client Work Station for developers and testers.
+Experience in resolving developer issues like resetting passwords, locking and unlocking user accounts.
+Maintain the workflow of PeopleSoft users.
+Worked on applying Patches, Bundles and Tax Updates using Change Assistant and PeopleSoft Update Manager (PUM)
+Installing and Configuring Change Assistant to apply bundles and tax-updates.
+Involved in setup configuration of Integration Broker in Financials and HCM Applications.
+Maintaining integrity and internal consistency of the database using DDDAUDIT, SYSAUDIT, ALTERAUDIT reports periodically.
+Experience in load balancing of Application server domains and Process Scheduler Servers.
+Experience on clearing the cache of all servers such as Application Server Domains, Web Server Domains and Process Scheduler servers on a regular basis.
+Monitor the log files to find out bottleneck of the status of servers
+Experience in Troubleshooting of Data mover while installing PeopleSoft.
+Maintaining and troubleshooting various servers like Application Server domains, Process Scheduler Domains and Web Server Domains
+Experience in Tuning of Application Server Domains, Process Scheduler Domains and Web Server Domains.
+Strong communication, collaboration, team building and inter-personal skills
+Good team player and a proven Individual contributor
+Area of Technical Skills:
+Educational Qualification:
+MBA (HR & Marketing) from KBN College, Nagarjuna University, Vijayawada in 2011.
+B.Sc (Bachelor of Science) from SRR & CVR College, Nagarjuna University, Vijayawada in 2009.
+Professional experience:
+Worked as PeopleSoft Systems Administrator in Capgemini Technology Services India Limited from Feb 2020 to Sept 2020.
+Worked as PeopleSoft Systems Administrator in Cognizant Technology Solutions India Pvt Ltd from Oct 2017 to Sept 2019.
+Worked as Associate - PeopleSoft Administrator with A&A Innovative Solutions Pvt. Ltd from Jan 2013 to Oct 2017.
+Project Experience and Achievement’s
+Client			: 	Disney (Fox Entertainment) & Allegis 
+Environment 		:	HCM, FSCM & ELM 9.2, People Tools 8.56, Oracle 12c, 
+                                                WebLogic 12.2.1, Tuxedo 12.2.2, Red Hat Enterprise Linux 6.      
+Role			:           Sr. PeopleSoft Admin/PeopleSoft DBA 
+Duration                     :           Feb 2020  to Sept 2020
+Roles and Responsibilities:
+Involved in PeopleTools upgrade from PeopleTools 8.55 to 8.57
+Involved in Application update from FSCM 9.2.017 to FSCM 9.2.032
+Strong experience on PeopleSoft PUM server installation and troubleshooting.
+Applying fixes, patches and bundles for PeopleSoft FSCM92 and HRMS92 using PeopleSoft PUM. 
+Worked intensively on performance tuning of PIA architecture based on load testing and up scaling architecture to support the expected load
+Created a dedicated Integration Broker gateway as message volume was high and for easy maintenance. 
+Redesigned and Configured High availability and load balancing for existing PeopleSoft 
+Internet Architecture. 
+Responsible for the daily maintenance and troubleshooting of complex hosted solutions
+Monitoring the day-to-day working of the system.
+Handled Application Management tasks like Applying Patches & Fixes.
+Load balancing of Application server & Web server, Performed Database Refreshes, Imports, Exports and Backups.
+Object Migration between different instances involving compare reports, building objects etc. 
+Monitoring Application servers, web servers and process scheduler errors
+Check the reports for status Blocked, queued, processing, no success etc. Error Log Attached, Check the Reports Ran to Success
+Perform Remote call test
+Check the integration broker
+Check the Server Disk space, Load level, PeopleSoft ping under acceptable level
+Status of Housekeeping activities (Checking and Cleaning up the logs)
+Daily perform Project Migrations and Data Migrations.
+Generate Compare Reports between various environments.
+Checked and cleared cache on all servers such as Application Servers, Web Servers, and Process Scheduler Servers on a regular basis as a maintenance process.
+Maintain the workflow of PeopleSoft users.
+Download Updates and Fixes and apply to the environments and maintain the customizations for the PeopleSoft.
+Download PeopleSoft Update Image and Apply to the Applications.
+Applied Patches and Tax Updates.
+Installed and Configured Change Assistant to apply PUM image. 
+Maintaining integrity and internal consistency of the database using DDDAUDIT, SYSAUDIT, ALTERAUDIT reports periodically.
+Performed Jolt failover and load balancing of Application Server Domains and Process Scheduler Servers Domains.
+Involved in the Performance of the databases and application by creating multiple domains across the instances.
+Monitor the log files to find out bottleneck of the status of servers
+Troubleshoot of Data mover while installing PeopleSoft.
+Troubleshooting of Process Scheduler servers if the jobs are stacked on a Queue.
+Maintain and troubleshoot various servers like Application Servers, Process Scheduler Servers and Web Servers.
+ Involved in doing Refreshing on PeopleSoft instances weekly twice or thrice.
+Documenting all support issues with their resolutions and feedback.
+Client			: 	Inter-Continental Hotels Group
+Environment 	:	FSCM 9.2, People Tools 8.56, Oracle 12c, 
+                                                WebLogic 12.2.1, Tuxedo 12.2.2, Red Hat Enterprise Linux 6.      
+Role	:           Sr. PeopleSoft Admin/PeopleSoft DBA 
+Duration                     :           Oct 2017 to Sept 2019
+Roles and Responsibilities:
+Involved in PeopleTools upgrade from PeopleTools 8.54 to 8.55
+Involved in Application update from FSCM 9.2.006 to FSCM 9.2.016
+Strong experience on PeopleSoft PUM server installation and troubleshooting.
+Applying fixes, patches and bundles for PeopleSoft FSCM92 and HRMS92 using PeopleSoft PUM. 
+Perform Remote call test
+Check the integration broker
+Check the Server Disk space, Load level, PeopleSoft ping under acceptable level
+Status of Housekeeping activities (Checking and Cleaning up the logs)
+Daily perform Project Migrations and Data Migrations.
+Generate Compare Reports between various environments.
+Checked and cleared cache on all servers such as Application Servers, Web Servers, and Process Scheduler Servers on a regular basis as a maintenance process.
+Maintain the workflow of PeopleSoft users.
+Download Updates and Fixes and apply to the environments and maintain the customizations for the PeopleSoft.
+Download PeopleSoft Update Image and Apply to the Applications.
+Applied Patches and Tax Updates.
+Installed and Configured Change Assistant to apply PUM image. 
+Maintaining integrity and internal consistency of the database using DDDAUDIT, SYSAUDIT, ALTERAUDIT reports periodically.
+Performed Jolt failover and load balancing of Application Server Domains and Process Scheduler Servers Domains.
+Involved in the Performance of the databases and application by creating multiple domains across the instances
+Monitor the log files to find out bottleneck of the status of servers
+Setup Master/Slave load balance for pub/sub services
+Worked intensively on performance tuning of PIA architecture based on load testing and up scaling architecture to support the expected load
+Created a dedicated Integration Broker gateway as message volume was high and for easy maintenance. 
+Redesigned and Configured High availability and load balancing for existing PeopleSoft 
+Internet Architecture. 
+Responsible for the daily maintenance and troubleshooting of complex hosted solutions
+Monitoring the day-to-day working of the system.
+Handled Application Management tasks like Applying Patches & Fixes.
+Load balancing of Application server & Web server, Performed Database Refreshes, Imports, Exports and Backups.
+Object Migration between different instances involving compare reports, building objects etc. 
+Monitoring Application servers, web servers and process scheduler errors
+Check the reports for status Blocked, queued, processing, no success etc. Error Log Attached, Check the Reports Ran to Success
+Troubleshoot of Data mover while installing PeopleSoft.
+Troubleshooting of Process Scheduler servers if the jobs are stacked on a Queue.
+Maintain and troubleshoot various servers like Application Servers, Process Scheduler Servers and Web Servers.
+ Involved in doing Refreshing on PeopleSoft instances weekly twice or thrice.
+Generating weekly status reports on all support issues to delivery manager
+Documenting all support issues with their resolutions and feedback.
+Client			: 	Baylor Scott and White
+Environment	:           HRMS 9.2, People Tools 8.55, Oracle 12c, 
+                                                WebLogic 12.1.2, Tuxedo 12.1.1, Red Hat Enterprise Linux 6.      
+Role	:           Sr. PeopleSoft Admin/PeopleSoft DBA 
+Duration                     :           Jun 2013 to Oct 2017
+Roles and Responsibilities:
+Strong experience on PeopleSoft PUM server installation and troubleshooting.
+Applying fixes and patches bundles for PeopleSoft FSCM92 and HRMS92 using PeopleSoft PUM. 
+Setup Master/Slave load balance for pub/sub services
+Worked intensively on performance tuning of PIA architecture based on load testing and up scaling architecture to support the expected load
+Created a dedicated Integration Broker gateway as message volume was high and for easy maintenance. 
+Redesigned and Configured High availability and load balancing for existing PeopleSoft 
+Internet Architecture. 
+Responsible for the daily maintenance and troubleshooting of complex hosted solutions
+Monitoring the day-to-day working of the system.
+Handled Application Management tasks like Applying Patches & Fixes.
+Load balancing of Application server & Web server, Performed Database Refreshes, Imports, Exports and Backups.
+Object Migration between different instances involving compare reports, building objects etc. 
+Monitoring Application servers, web servers and process scheduler errors
+Check the reports for status Blocked, queued, processing, no success etc. Error Log Attached, Check the Reports Ran to Success
+Perform Remote call test
+Check the integration broker
+Check the Server Disk space, Load level, PeopleSoft ping under acceptable level
+Status of Housekeeping activities (Checking and Cleaning up the logs)
+Daily perform Project Migrations and Data Migrations.
+Generate Compare Reports between various environments.
+Checked and cleared cache on all servers such as Application Servers, Web Servers, and Process Scheduler Servers on a regular basis as a maintenance process.
+Maintain the workflow of PeopleSoft users.
+Download Updates and Fixes and apply to the environments and maintain the customizations for the PeopleSoft.
+Download PeopleSoft Update Image and Apply to the Applications.
+Applied Patches and Tax Updates.
+Installed and Configured Change Assistant to apply PUM image.
+Perform setup of Integration Broker between various environments for HRMS and FSCM. 
+Maintaining integrity and internal consistency of the database using DDDAUDIT, SYSAUDIT, ALTERAUDIT reports periodically.
+Performed Jolt failover and load balancing of Application Server Domains and Process Scheduler Servers Domains.
+Involved in the Performance of the databases and application by creating multiple domains across the instances
+Monitor the log files  to find out bottleneck of the status of servers
+Troubleshoot of Data mover while installing PeopleSoft.
+Troubleshooting of Process Scheduler servers if the jobs are stacked on a Queue.
+Maintain and troubleshoot various servers like Application Servers, Process Scheduler Servers and Web Servers.
+ Involved in doing Refreshing on PeopleSoft instances weekly twice or thrice.
+Generating weekly status reports on all support issues to delivery manager
+Documenting all support issues with their resolutions and feedback.",0.024292978663408824,0.46487674826597586,0.210632855330569,0.15992014139468794,0.14027727634535841
+14,Data set\Resumes\Reactjs\React Developer_Kamalakar Reddy.docx,unzipped_files\Data set\Resumes\Reactjs\React Developer_Kamalakar Reddy.docx,14,Reactjs,Reactjs,"KAMALAKAR REDDY. A 
+Linked In: https://www.linkedin.com/in/kamalakar-reddy-777682196/ 
+PROFESSIONAL SUMMARY 
+● 3 years of experience in UI Development of Enterprise Applications, Web Applicationsrelated technologies. 
+● Experience in Development, Coding, Maintenance,Design, Implementation of Web applications using HTML5, CSS3, JavaScript, j Query, React JS, Redux. 
+● Well versed in designing websites, Web Applications. 
+● Well versed in different Project Management Tools e.g. JIRA, GIT, Bit bucket. ● Tested cross browser design issues and fixed major layout bugs for supported browsers. ● Self-motivated with good communication and interpersonalskills. 
+● Ability to work independently and multitasking without negative impact to timelines orquality. 
+WORK EXPERIENCE 
+MARCH 2021 – TILL DATE 
+ROLE : : UI DEVELOPER 
+ENLUME TECHNOLOGIES, HYDERABAD. 
+AUGUST 2018 – MARCH 2021 
+ROLE : SOFTWARE ENGINEER 
+FORTUNAPIX PRIVATE LIMITD, HYDERABAD. 
+PROJECTS 
+TITLE : Monarch Tractor 
+DESCRIPTION: Monarch Tractor impacts the environment exactly as intended, without side effects. This Application helpful for farmers to get tractor alerts, updates on weather conditions, Analysis, Data collection. MT platform acts as a full data collection and analysis suit. TECHNOLOGIES: HTML, Css3, Bootstrap, React Js, JavaScript. 
+TITLE : lernbook 
+DESCRIPTION: Fortunapix works for Digitalization of schools by providing modern digital education system in Govt. schools of Antigua and Barbuda, and Caribbean islands. This project digitalize and animates the education content for different grades in a school. 
+TECHNOLOGIES: Html, Css3, React Js, Bootstrap, Jqery. 
+url: http://demo.fortunapix.com/kkel/
+EDUCATION 
+2017 - 2018 
+WEB DESIGNING & DEVELOPMENT COURSE 
+AT ARENA ANIMATION DILSUKNAGAR, HYDERABAD. 
+2010 - 2013 
+BACHELOR OF COMPUTERS 
+AT G.PULLAREDDY DEGREE & PG COLLEGE, HYDERABAD. 
+TECHNICAL SKILLS 
+JAVASCRIPT LIBRARYS : ReactJs, Redux. 
+CSS FRAMEWORK : Bootstrap. 
+ENVIRONMENT : Photoshop, Visual Studio. 
+WEBTECHNOLOGIES : HTML 4, CSS3, Sass. 
+OPERATINGSYSTEMS : Windows, Mac, Ubuntu. 
+SCRIPTINGLANGUAGES : JavaScript, jQuery. 
+METHODOLOGIES : Agile. 
+ACTIVITIES & INTERESTS 
+∙ Cooking 
+∙ Playing Cricket 
+∙ Listening Music 
+∙ Other Social Activities 
+PERSONAL PROFILE 
+FATHER’SNAME : MURAHARI REDDY. A 
+GENDER : Male 
+MARITALSTATUS : Single 
+NATIONALITY : Indian 
+KNOWN LANGUAGES : Telugu, English, and Hindi. 
+LOCATION : Madhapur, Hyderabad 
+DECLARATION 
+I do hereby declare that all the above information furnished by me are true and correct to the best of my knowledge. 
+Place : Hyderabad (KAMALAKAR REDDY .A) Date :",0.023218055105600294,0.1418995999248504,0.5542317181032379,0.15878906783131624,0.12186155903499513
+9,Data set\Resumes\Peoplesoft resumes\Peoplesoft FSCM_PriyabrataHota.docx,unzipped_files\Data set\Resumes\Peoplesoft resumes\Peoplesoft FSCM_PriyabrataHota.docx,9,Peoplesoft resumes,Peoplesoft resumes,"CAREER OBJECTIVE		
+Pursuing Peoplesoft Executive role, having an overall experience of 3.6 Years in Financial Supply Chain Management and processes include Modification, Testing, and Supporting in PeopleSoft FSCM modules.
+ PROFESSIONAL SKILL		
+Functional: Purchasing, Inventory, Billing, Sound knowledge Account Payable, Sound knowledge in Peoplesoft Security
+Technical: PS Query, Basic knowledge in Peoplesoft Security, Application Designer, Peoplecode, SQL
+TOOLS: People Tools, ORACLE SQL Developer
+Database: ORACLE
+PROFESSIONAL SUMMARY
+Project # 1
+Module:   Accounts Payables 
+Client	: Accounts Team Aptara 
+Role	: Developer
+Technologies Used	: Crystal Reports, People Tools, Application Designer, Reporting Tools
+Application Designer: By using this tool we have created page which contains run control record and that page add in the component and register the component so that its reflected in the PIA(pure internet architecture)
+People Tools:          we have created a permission list by the help of people Tools and that permission                list to a separate role so that selected user can access the page.
+ we have also created a process to run the crystal through this tools so that the output will visible through process monitor.
+Reporting Tools:      we have created PS queries by the help of Reporting Tools for main report and for sub report in the crystal report.
+Crystal Reports:      by this tool we can used the PS queries, formula fields, running Total fields to get the required output
+Project # 2
+Module:   Purchasing
+Client	: Admin Team
+Role	: Developer
+Technologies Used	: People Tools
+As for the client requirement for requisition purpose we have to create a new origin for admin so that any requisition raise through that origin it’s only for Admin purpose.
+to get the requisition approval flow for admin we have created the origin for admin and add that origin in the route control profile by the help of People Tools. And that route control profile
+added in the approver user ids to get the work done.
+.
+• Tracking the Defects to Closure and Defects Verification.
+• Status meetings with Client.
+• Creating Peoplesoft User id as per the User requirement
+• creating Origin, route control profile, Roles for requisition.
+• Handling Requisition, Purchase Order, Receipt and Inventory related issue.
+• creating Billing specialist etc. as per the requirement from the user, also resolve the bug (e.g. if invoice not get printed etc.).
+• Handling journal error issues (e.g. its might be combo error, amount difference, open period error or zero line error)
+​FUNCTIONAL SUMMARY
+Oracle PeopleSoft Application (Finance) 8.9
+Modules Handled: Resource Management of FSCM
+Purchasing
+Inventory
+Billing
+Sound knowledge in Account Payable
+Sound knowledge of PeopleSoft security
+TECHNICAL SUMMARY
+Primary Skills: PS Query, Application Designer (Field, Record, Page, Component, Menu), SQL
+Secondary Skills: Peoplecode
+TOOLS: People Tools, ORACLE SQL Developer
+Database: ORACLE
+EDUCATION					
+B.Tech in Electrical and Electronics Engineering, Indus college of engineering, Biju Patnaik University of Technology, Orissa from0
+PERSONAL VITAE
+Date of Birth	: 10th Jan 1991
+Languages 	: English, Hindi, Odia
+Nationality	: Indian
+Gender		: Male
+.
+DECLARATION
+I do hereby declare that the information given above is true and correct to my knowledge and belief.
+Date:                                         						    	    Priyabrata Hota.",0.028191412579158814,0.28858585901026435,0.2858360507332528,0.22501996015945772,0.17236671751786636
+17,Data set\Resumes\Reactjs\React Developer_Sarala Madasu-converted.docx,unzipped_files\Data set\Resumes\Reactjs\React Developer_Sarala Madasu-converted.docx,17,Reactjs,Reactjs," 204,Sri geethika prestige,road number 10,bandari layout,nizampet,Hyderabad,500090.
+Having 3 years of experience in developing UI-Applications. ◉ Proﬁcient and excellent hands on experience with JavaScript,HTML5,CSS3,Boostarp,React Js. ◉ Good knowledge in designing web pages using CSS3 and Bootstrap. ◉ Strong knowledge in using Object Oriented Programming concepts in JavaScript. ◉ Working knowledge of DOM models and Strong skills of usability and accessibility with HTML,CSS. ◉ Providing support to the UI Design team,form an UI architecture/frame works perspective. ◉ Experience in Boostarp (responsive web design),and React Js frameworks.. ◉ Experience in the Healthcare domain.Involved in all phases of the software development life cycle such as developing,integrating,Implementing and Debugging of web based. ◉ Excellent interpersonal abilities,communication skills,time management and team skills with an intention to work hard to meet project deadlines under stressful environment.
+Apr 2017 - Feb 2019
+Software Engineer
+Individual contributor responsible for designing front end applications using web technologies like HTML5,CSS3 and JavaScript.
+Responsible for creating Modules using react is,converting HTML into components.
+Responsible for creating responsive web pages using Bootstrap.
+Apr 2016 - Mar 2017
+Software Engineer
+Individual contributor responsible for completing assigned tasks on time and proactively taking up new tasks.
+Responsible for building optimized code using JavaScript and debugging for any issues.
+Understanding the software requirements speciﬁcation @project functionality.
+Responsible for designing reactive web pages using HTML and CSS.
+Responsible for doing research on new implementations and ﬁnding out if it ﬁts the current requirement.
+Participate in daily meetings and give day wise updates to the team.
+2011-2015
+Sri Krishna Devaraya College(JNTU)
+2009-2011
+Inter,MPC
+HTML5,CSS3,JavaScript,React js, Bootstrap.
+E-Services is the project initiated by GOA government.The E-Services portal aims to provide the facility for citizens to submit online forms for the services identiﬁed by the state to be delivered online and through Lok seva kandra(LSKs).
+CRM processes that help identify and target their best customers.Providing services and products that are exactly what your customers want.CRM processes that help from individualized relationships with
+Customers(to improve customer satisfaction)and provide the highest level of customer service to the most proﬁtable customers.",0.023193776993728932,0.13830272482212838,0.558305333184025,0.14899704892122476,0.13120111607889295
+16,Data set\Resumes\Reactjs\React Developer_Pragnya.docx,unzipped_files\Data set\Resumes\Reactjs\React Developer_Pragnya.docx,16,Reactjs,Reactjs,"PRAGNYA PATTNAIK
+ Expertise: 
+Having around 2 years of experience in UI development using Html5, CSS3, JavaScript, Bootstrap, React JS. 
+Good knowledge in Java Script, JQuery, Ajax, React JS, TypeScript, Angular 10. 
+Working on AGILE METHODOLGY
+Flexible to every Environment, Honest and believe in Hard work. 
+Good Communications and Analytical skills. 
+Maintain focus on high quality deliverables while working under pressure in Production environment. 
+Management of the ticketing system on the production environment and resolution of the tickets with different priorities with appropriate solutions. 
+Excellent interpersonal communicator and focused on building strong client/customer relationships. 
+Proven ability to work efficiently in both Independent and team work environments. 
+Ability to work optimally under scheduled deadlines and deliver high quality output. 
+Technical Skills: 
+ Educational Profile: 
+MCA from IGNOU (Indira Gandhi National Open University) 2018, Odisha. 
+   Working Profile: 
+Working as a Web Developer for Smart Edge India Pvt Ltd, (November 2019 to till date). 
+ Professional Experiences: 
+Project 1: 
+Project Description:- 
+Golden amoon is a resort and hotel. They provides services for hotel booking, spa, conventional centre and conference hall booking system. Customers can check the availability for all services through web as well as in mobile. They can give their payment through online payment by internet banking, Debit card or in Credit Card. We developed both web and android based application which can help customers to get the services features easily and make client also for doing profitable business. 
+Responsibilities: 
+Understanding requirements. 
+Working on UI implementation for the customers. 
+Customizing React JS .
+Developed the front-end web page by using HTML5, CSS3, Bootstrap and  JQuery. 
+Created CSS Websites Compatible of Google Chrome. 
+ Project 2: 
+Project Description:- 
+G2evolution is a service based company. They provide services for School Management, Ecommerce, Business Consulting, Mobile App Development, Search Engine Optimization (SEO). 
+Responsibilities: 
+Conversion of PSD designs into HTML5 (Responsive layouts). 
+Involved in fixing the issues. 
+Designing Attractive Layout. 
+PERSIONAL DETAILS:
+             Name		           :        PRAGNYA  PATTNAIK
+	Gender		           :        Female
+	Nationality	           :        Indian	
+	Languages known       :         English & Hindi & ODIYA
+(I hereby declare that the above written particulars are true to the best of my knowledge and belief)",0.025406280901796814,0.1520401469134912,0.505522417872007,0.172853540683134,0.14417761362957096
+39,Data set\Resumes\SQL Developer Lightning insight\RameshNataru[3_4].docx,unzipped_files\Data set\Resumes\SQL Developer Lightning insight\RameshNataru[3_4].docx,39,SQL Developer Lightning insight,SQL Developer Lightning insight,"Name: Ramesh
+Career Objective: 
+                To contribute an organization that provides an opportunity to showcase my technical skills and helps me to gain knowledge in domain and technology.
+Professional Summary:
+3.5 Years of experience in system Design, Development and Support of Microsoft SQL server 2008, 8R2 and 2012.
+Extensive experience on Joins, Set Operators, Temporary Tables, Table Variables, CTE/Derived Tables, sub-Queries.
+Extensive experience on constructing Tables, Views, Indexes, Synonyms, Functions, Cursors and Stored Procedures.
+Experience on ETL (Data Extraction Transforming and Loading) in BIDS (Business intelligence development studio)/ SSDT (SQL Server Data Tools) using SSIS (SQL Server Integration Services), Bulk Insert, BCP (bulk copy program).
+Experience on Design and Development of SQL Server Integration Services (SSIS) packages and using various control flow tasks like Data Flow Task, for-each Loop Container, For Loop Container.
+Experience on different transformations like Data Conversion, Conditional Split, Merge, Merge Join, Union All, Derived Column, Multi-Cast, SCD, Fuzzy Lookup etc.
+Experience on providing Logging, Error Handling by using Event Handler, Checkpoints, and logging for SSIS Packages.
+Designed different types of Bulk Insert task, Execute SQL task, FTP task and Send mail tasks.
+Experience on Deploying the SSIS Packages
+Experience on all types of reports like Table, Matrix, Sub-Reports, Image etc.,
+Generated multiple reports using SSRS from SQL Server Database (OLTP) and included various reporting features such as Group-by, Drill-Down, Drill-Through, Cascading Reports, Parameterized Reports and Report builder.
+Experience on Created Linked Reports, cache Reports.
+Deployed and processed SSIS packages and SSRS reports weekly to update information (as per business logic) by using SQL server agent and windows scheduler.
+Knowledge on SQL profiler, performance tuning, Query tuning and new features of advanced versions in SQL server.
+Excellent Report creation skills using Microsoft Reporting Services (SSRS) 2008/2012.
+Willing to learn new things and hard working.
+Excellent communication, ability to deal with different people, interpersonal and analytical skills, and a highly motivated team player with the ability to work independently.
+Education:  Master of Computer Applications (2018)
+Technical Skills:
+Operating Systems	:   Windows, Unix 
+Database Tools             :  SQL server Management   Studio (SSMS)
+Languages		:  SQL and T-SQL
+ETL Tools		:  SQL Server Integration Services (SSIS)
+Reporting Tools           :  SQL Server Reporting Services (SSRS)
+Databases		:   MS SQL Server
+Professional Experience:
+Currently working as SQL Developer for Tietoevryindia In Bangalore from Feb 2018 To Till Date
+Project Details:
+Project# 2	
+Title                     :    T-Mobile
+ Client	                :    T-Mobile
+Duration            :    April-2020 to till date (1 year 2 months)
+Skills Used        :     SQL ,SSIS,SSRS
+Role Played	 :   SQL Server& MSBI Developer 
+Abstract:	
+	It is an E-commerce web application, consists of two main modules admin module and User module. Inside user module it has multiple components like cart, orders, payment etc. and in Admin module have a component like category, sub-category, products and etc.
+Responsibilities:
+Excellent report creation skills using Microsoft SQL Server Reporting Services (SSRS).
+Created SQL Server Reports based on the requirements by.
+Developed reports and deployed them on server using SQL Server Reporting Services (SSRS).
+Developed Complex Stored Procedures, Views and Temporary Tables as per the requirement.
+Wrote complex SQL queries using joins, sub queries and correlated sub queries to retrieve data from different SQL Server Databases and Excel files, apply business logic, load in table and create view for end users.
+Created DDL scripts to create database schema and database objects like tables, stored procedures, views, functions, and triggers using T- SQL.
+Create the clustered/non-clustered indexes on tables; Trace out for any table required any indexes and determine the type of index on it.
+Created complex reports which involve more number of groupings and multi-value parameters
+Developed reports like Claim Statements, Fee Bills Transactions, and some end request user reports on periodic basis.
+Provided technical guidance and support to end-users by developing documentations required.
+Experience in creating complex SSIS packages using proper control and data flow elements.
+Worked extensively on SSIS Package designs for Import/Export from various Data Source Flat file, Excel to MS SQL Server and vice versa and schedule the jobs.
+Used various Transformations such as Slowly Changing Dimension, Multicast, Merge Join, Lookup, Fuzzy Lookup, Conditional Split, Aggregate, Derived Column, and Data Conversion Transformations.
+Generated matrix reports, drill down, drill through, sub reports, multi parameterized reports in SSRS
+Rendering the reports to PDF formats as per the requirement and printing all the reports in a batch process for Monthly Statements. Scheduling the SSIS packages and Jobs.
+Project #1		
+       Title                 :   Sales Flash                               
+       Client	    :   British Gas
+       Duration        :   May-2018 to feb-2020(1 year 10 months)
+       Skills Used    :   MS-SQL SERVER 
+       Role played  :   Associate Software Engineer
+Abstract:	
+		British Gas is an energy and home services provider in the United Kingdom. It is the trading name of British Gas Services Limited and British Gas New Heating Limited, both subsidiaries of Centrica. Serving around 12 million homes in the UK, British Gas is the biggest UK energy supplier and is considered one of the Six which dominate the gas and electricity market in the United Kingdom
+Responsibilities:
+Determined the SQL Server Installation. Installed SQL Server Management tools using SQL Server Setup Program and Tested the Installation of SQL Server.
+Create database objects such as tables, views, stored procedures, Triggers etc.
+Implemented Triggers for checking complex business conditions, providing security for the tables.
+Created check constraints to maintain data integrity.
+Created stored procedures and functions to support efficient data storage and manipulation.
+Planned complete Back-up of Database and Restored the Database from Disaster Recovery.
+Create the clustered/non-clustered indexes on tables; Trace out for any table required any indexes and determine the type of index on it.",0.021761431693013374,0.13624470389180302,0.1710943634077671,0.5413298033011944,0.12956969770622206
+45,Data set\Resumes\workday resumes\MooraboyinaGuravaiah_Hexaware.docx,unzipped_files\Data set\Resumes\workday resumes\MooraboyinaGuravaiah_Hexaware.docx,45,workday resumes,workday resumes,"Mooraboyina Guravaiah
+Workday Integration Specialist				                            
+CARRIER OBJECTIVE: 
+My intention at this step would be to learn new things related to my profession. As it is a    technical field, one has to be updated because the technology changes often. It is my         responsibility to learn and adopt the new technology. It would be profitable for me as well as for my company
+PROFESSIONAL SUMMARY
+Having 5+ years of experience in the field of IT, in which 3+ years of experience in providing Workday Technical Development in Workday Support and Enhancement Project.  
+Technically proficient in customizations, enhancements and Reports using various tools like Report writer, EIB, Core Connector and Studio.
+Good working knowledge on Inbound and Outbound EIB integration concepts and created various EIB integrations.
+Building Core Connector integrations for extracting worker, position, status, leave and absence delta changes.
+Designed and built all types of integrations using Document Transformation, EIB, PICOF, Cloud Connectors and Custom Report Writer. 
+Experience with XML, XPATH and XSLT, and Expert in designing/development of Interfaces with legacy and third party systems. 
+Hands-on experience In Migrating the XSLT Code, Reports from Lower tenet to Sandbox and Production using Object Transporter.
+Experienced in developing Custom Reports, Advanced Reports using Report writer
+Strong experience using technologies involving Workday applications, reporting and analytics. 
+Good experience on create Report Groups and Workbooks to create Excel worksheet groups. And creating Dashboards.
+Strong Knowledge on working with CR-Change Requests as per business requirement and Building and moving changes to production.
+Worked closely with business and development teams, designed and documented 
+enhancements as well as conducted production support troubleshooting around integrations for Global Workday HCM system.
+Excellent interpersonal, presentation and communication skills with the ability to work in a team and a stand-alone environment. 
+EDUCATION QUALIFICATION
+Completed B.Sc (Bachelor of Science) from Nagarjuna University - 2013 
+TECHNICAL SKILLS:   
+Technical Expertise	              :  	XML, XSLT, EIB, Core Connectors, 
+Functional Expertise	               :  	Core HCM
+Reporting Tools		:  	Report Writer, Crystal Reports11, XMLP
+Technical Skills		:  	EIB, Core Connector, DT and Studio
+Work Experience 
+Currently Working as Workday Consultant in Jade Global, Pune from May’2016 to Till Date 
+Project Details 
+Jade Global, PUNE     ( Apr’2018 to Till Date)
+Project:                Workday Support and Enhancement 
+Designation:	 Workday Consultant 
+RESPONSIBILITIES
+Involved in Workday HCM for various HR modules such as Benefits, Compensation, Time tracking and Absence Management.
+Working on Calculated Fields to create Report level and Global calculated Fields.
+Monitor daily schedulers and report errors as needed.
+Design and build integrations and worked closely with testing and production teams to solve issue with integrations.
+Created Custom reports like Simple, Advanced Reports as per the client requirements and shared with the security groups.
+Worked on Calculated Fields to create Report level and Global cal Fields.
+Good experience with Core Connector worker to work on employee demographics and build Benefit integrations and Account provisioning integrations.
+Created complex Inbound/Outbound integrations using workday studio, core/cloud connectors, using EIB’s, document transformation process.
+Involved in unit test on Integrations, UAT support and end user training.
+Design, build or maintain integrations of all types: reports, EIB, Core Connectors, payroll connectors, or Studio.
+Write / modify Technical Design/ Specifications as needed
+Participate in integration testing and peer testing.
+Work independently or with minimal supervision with various stakeholders including the functional consultants.
+Monitor and update ticketing tool on daily basis. Manage work activities and ticket volumes to meet required SLA’s and service delivery measures.
+Developed Core connector and Document Transformation integrations to get changes file of CSV format from XML Output.
+Used sequence generators, generating templates and validating inbound integration system results.
+Day to day support for Workday HCM, Integrations and Reporting issues.
+TECHNICAL ENVIRONMENT: Workday 30/31/32/33/34, Workday studio, workday EIB, Workday BIRT, Core concepts, Document transformation, Calculated fields, Oxygen Editor, Workday report writer, XML, XSLT.
+2.  Jade Global, Pune    (May’16 to Mar’2018)
+     Project                  :      PeopleSoft Support and Enhancement 
+     Designation         :	Consultant
+Have Customized and developed Application engines for loading bulk data from external systems.
+Track and resolve user support issues with current system Maintain good working relationships with project team members, internal customers (e.g. AP,PO,BI and GL), and external service vendors
+Have designed technical documents and have worked towards development of interfaces and conversions based on design documents.
+Modified, designed, configured and built fields, records, sub records, setting up keys to records, assign table edits like prompt table.
+Involved in online changes to the delivered pages, components, menus and translate values.
+Have Customized and developed Application engines for loading bulk data from external systems.
+Developed and modified People Code to implement specific business rules and validations to enable the System to perform the business process.
+Used File Layout Definition to get data from the legacy system to PeopleSoft tables.
+Managed and monitored process scheduler for any issues while scheduled interfaces/processes ran and resolved the issues
+Developed/Modified various PS queries in order to help the client day-to-day activity.
+Involved in creating PS Query’s and sending it through email to different country FSCM heads.
+Worked on the reporting tools like PS Query, XML Publisher
+Have worked on File Layout, Application Engine, Component Interface, File layout, Excel to CI, XML Report
+PERSANAL DETAILS:
+	Father’s Name	         : Danaiah M
+	Date of Birth	         : 15-02-1992
+                     Gender                                 : Male
+                     Nationality                          : Indian 
+                       Marital Status                   : Married
+Declaration:  
+      I here by declare that all the information furnished is true to by best of my knowledge.
+Place :
+Date  :                                                       
+                       									         (Guravaiah M)",0.021389296177876275,0.12371749521854682,0.16194914209936187,0.12086071178573793,0.572083354718477
+19,Data set\Resumes\Reactjs\React Dev_Krishna Kanth.docx,unzipped_files\Data set\Resumes\Reactjs\React Dev_Krishna Kanth.docx,19,Reactjs,Reactjs,"Ui-Developer/ React JS Developer 
+NAME: KRISHNA 
+PROFESSIONAL SUMMARY:
+Over all 3.2 years of Extensive experience as a React JS/Web- Developer and 1 year of Experience as React JS Software Developer.
+Extensive experience in developing web pages using HTML, XML, CSS, JavaScript, React JS, Redux, JSON.
+Experience in all phase of SDLC like Requirement Analysis, Implementation and Maintenance, and extensive experience with Agile and SCRUM.
+Extensive knowledge in developing single - page applications (SPAs).
+Good Expertise in analyzing the Document Object Model (DOM) Layout, DOM Functions, and Java Script functions, Cascading Styles across cross-browser using Fire Bug, Developer Tool Bar.
+Expertise in React JS framework to develop the SPA.
+Experienced in React JS and working with React Flux architecture.
+Experienced in working with redux architecture using complex Object-Oriented concepts in improving the performance of the websites.
+Experience in using React JS components, Forms, Events, Keys, Router, plus Redux, Animations.
+Expertise in video coding by using HTML5, CSS3 and JavaScript.
+Expertise in RESTful, SOAP web services to integrate between Application to Application
+Experience with front-end development with back-end system integration.
+TECHNICAL SKILLS:
+Web Technologies: HTML, CSS3, XML, JavaScript, JSON, React JS, Node.js, GitHub.
+QUALIFICATION:
+B-Tech from JNTU-Kakinada University - 2016
+PROFESSIONAL EXPERIENCE:
+I have experience as React JS Developer with 3.2 years of experience in the IT Industry and currently working in BOSCH.
+Current Project: AGSP (Auto Guar age Solution Project)
+Role: UI Developer/ React JS Developer
+Responsibilities:
+Design, develop and test HTML5, CSS3, Bootstrap, JavaScript and React.JS that meets accessibility and web browser standards for website.
+Developed user interface by using the React JS, Flux for SPA development. 
+Used React-Router to turn application into Single Page Application
+Worked in using React JS components, Forms, Events, Keys, Router, Animations and Flux concept.
+Used React flux to polish the data and for single directional flow.
+Used Object Oriented Programming concepts to develop UI components that could be reused across the Web Application.
+Extensively used Git for version controlling and regularly pushed the code to GitHub.
+Used JIRA as the bug tracking system to track and maintain the history of bugs/issues on everyday basis.
+ Environment: HTML5, CSS3, JavaScript, Bootstrap, React JS, Redux, JSON, Git hub, JIRA
+Previous Project:  SITE WORK PROJECT
+Role: UI Developer/ React JS Developer
+Responsibilities:
+Worked on an Agile (Scrum) Development Team to deliver regular updates to business team and project managers.
+Involved designing in web pages using HTML 5, CSS3, JavaScript, Bootstrap, React.js, Redux , 
+Worked on React JS Virtual Dom and React views, rendering using components which contains additional components called custom HTML tags.
+Implemented various screens for the front end using React.js and used various predefined components from NPM (Node Package Manager) and redux library.
+Worked in using React JS components, Forms, Events, Keys, Router, Animations, and Flux concept.
+Responsible for React UI and architecture. Building components library, including Tree, Slide-View, and Table Grid.
+Implemented stable React components and stand-alone functions to be added to any future pages.
+Used React JS for tinplating for faster compilation and developing reusable components.
+Used React-Auto complete for creating Google maps location search on the webpage.  Environment: HTML5, CSS3, Bootstrap, GitHub and Jenkins.",0.017753203949936736,0.09557028053729316,0.6942401578633655,0.10465663077771123,0.08777972687169351
+47,Data set\Resumes\workday resumes\RahulM_Hexaware.docx,unzipped_files\Data set\Resumes\workday resumes\RahulM_Hexaware.docx,47,workday resumes,workday resumes,"Rahul  (Techno Functional Consultant)  
+Professional Summary	
+Having Around 5+ years of experience in ERP Experience including 3 years in workday HCM and Expertise in Workday HCM , Benefits, Leave of Absence, Integration , Reporting , workday studio .
+Core Qualifications & Skills	
+Involved in Full life cycle Workday implementation experience from requirement gathering to post deployment product support for HCM modules as well as various integrations in workday.
+Hands on configuring the Various Core HCM, Benefits ,Recruiting, Payroll ,Talent Modules .
+Expertise in Report writer, EIB, PICOF, DT, Workday Studio, CCW,CCB,BIRT, Calc Fields. 
+Expertise in Payroll integrations from workday to ADP , PS, by using PICOF and PECI .
+Developed and maintained custom-report types (Advanced, Matrix) using report writer tool.
+Hands on experience in creating BIRT layouts using Report Designer, for Using Report Designer.
+Involved in transformation of XML into XSLT for presenting data for different web Services.
+Expertise In Workday Security, leave absence, recruiting and Configuring the Befit 401 Plan etc.
+Good Knowledge  Creating leave families , Leave types , and absence condition rules in Module.
+Experience in inbound/outbound integration using EIB, CCW/CCB, Report Writing, creating Workday Cal fields, Custom report, (Matrix, Composite, trending, Advanced) BIRT tool .
+Configured the custom Dashboard and Created Reports and added to the various dash boards.
+Configured BP for leave of absence , Recuring , core HCM, written condition rules for steps etc.
+Expertise in building EIBs (Enterprise Interface Builder) integration within WD for sending Data
+Prioritizing, reproducing, and verifying bug fixes in different Workday integrations, reports BP’s.
+Ability to work creatively , analytically in a problem-solving workday Production environment,
+Interaction with all work streams including functional, conversion and project management.
+Expertise in developing Payroll interfaces using PICOF/ PECI with the help of Workday Studio and Document Transformation to  meet client’s complex payroll requirements using DT, Studio.
+Experience in understanding and gathering the business requirements, translating Functional
+specifications and develop code along with detailed design, Performed UTP test cases in wd.
+Excellent client interaction skills and experience in working independently as well as in a team.
+Developed Several Complex Integrations using Workday Studio and EIB CCW, PICOF, DT.
+Have good knowledge ETV/XTT functions in Document transformation for validating the data.
+Having knowledge in XML, WD-SOAP Web Service, and WD- REST Web Service and
+Experienced in  using such as Soap UI , Postman , XML Exchanger tools for testing API call .
+Experience on getting requirement from the client and handing sharing the work across team.
+Hands on experience in creating New security groups,  or updating security groups with various domains , security polices, activating security policies and identifying the security Objects .
+Professional 
+Working As software Engineer in  Infosys  From Jun 2016 – Till date.
+Technical- Skills.
+Education Details:
+Completed B-Tech from JNTU Anantapur 2016  with 70 %.
+Project Profile:-
+Project-2	   :   Implementation & Support  workday HCM
+Client	                 :  CDK Global .
+Role		   :  Workday Techno Functional Consultant.
+Description: CDK Global is the largest global provider of integrated information technology and digital marketing solutions to automotive dealerships and manufacturers in more than 100 countries worldwide for the world’s biggest car brands Although we operate on a global scale we are small by comparison and that is a good thing It means that we are still a business where every person matters and where anyone can make an impact on our growth and success We have opportunities in a wide range of business areas so wherever in the world you join us you will get the support training and tools you need to make significant
+Role and Responsibilities:
+Understanding the Business Requirements by studying the Functional Documents.
+Modified the XSLT code as per CR-request and adding the new XSLT for Different info types. 
+Create the new WD studio programs to sending AI-Statement to worker documents using BIRT.
+Creating the custom reports as per the client requirement and preparing the UTP documents.
+Created Workday Studio programs to load compensation data from ADP to workday.
+Created EIB Inbound Integrations for loading the employees personal Information like, Emergency contacts, , One-time payments, Bank account information, cost center information.
+Created EIB Integrations, written XSLT code and sending data from WD to downstream systems.
+Hands-on experience in creating the calculated fields using different functions complete logics. 
+Supporting the Different teams in UAT phase as with test factory teams during integration testing.
+Involved in calls with client and update the work status as well as clarifications if any.
+Handled Workday Service Upgrade Testing (WD29, WD30) for all the existing integrations
+Responsible for supporting the new change requests and enhancements in the project.
+Created calculated fields and worked on simple and advanced, matrix , Trending  reports.
+Worked on integrations systems (EIB’s, Core Connectors, PICOF.DT, Workday Studio).
+Day to day support of workday integrations, security, Business Process, and reporting issues.
+Coordinated with Onshore on requirements gathering, implementation, testing and enhancement of Integration, reports , business Process, EIB,BIRT and  workday studio integrations .
+Configured various business processes and created notifications to integrations, Reports etc.
+Design of web services to send/receive between Workday and Third-party system using API call .
+Developed analytics dashboards , data sources to provide actionable reporting  analytics.
+Deployed workday objects using Solutions from implementation to UAT, production tenants by following the change management process, solving the migration issues by using OX.
+Configured Leave family, leave type, Absence rules for countries as per business requirements
+Involved in Workday version upgrade testing and Scheduling and Monitoring Integrations.
+Expertise in developing Payroll interfaces using PICOF, PECI with the help of Workday Studio and DT to meet client’s complex payroll requirements sending to Diff payroll Vendors.
+Experienced in analyzing and preparing Project Deliverables Technical Design Document (TDD).
+Hands-on experience In Migrating the XSLT Code, Reports from Lower tenet to Sandbox and Production using Object Transporter. 
+Created the new outbound integrations to sending the time off corrections Information from workday to ADP payroll system.
+Project-2	   :   Implementation & Support  workday HCM
+Client	                 :  CDK Global .
+Role		   :  Workday  PS  Consultant.
+Description: CDK Global is the largest global provider of integrated information technology and digital marketing solutions to automotive dealerships and manufacturers in more than 100 countries worldwide for the world’s biggest car brands Although we operate on a global scale we are small by comparison and that is a good thing It means that we are still a business where every person matters and where anyone can make an impact on our growth and success We have opportunities in a wide range of business areas so wherever in the world you join us you will get the support training and tools you need to make significant
+      Role and Responsibilities:
+Responsible for various customizations of fields, records, pages, components and menus as per the client requirements by using Application Designer
+Customized JOB DATA component to accommodate few more fields which are using as inputs for other systems and worked on APP engine, SQER, PS query, component Interface .
+Created CI with AE to import the JOB Requisitions data into PeopleSoft system from file and performed some validations before inserting to PS system.
+Was involved in functionality of sending Emails notifications through users with help of Send Mail Function.
+Used Process Scheduler to run scheduled process at a specific time and/or run recursively at a specific interval and used process Monitor to view status of the process.
+Creating new application engine program for sending employees data to third party system.
+Generating the Relocation Letters As per HR request and sending to the Daily Process Report to the client.
+Developed People Code to implement specific business rules and validations to enable the system to perform the business process.",0.021337164973841534,0.12183010521208523,0.15193514905915334,0.12104291071383744,0.5838546700410825
+1,Data set\Resumes\Internship\Internship_Susovan Bag_Musquare Technologies.docx,unzipped_files\Data set\Resumes\Internship\Internship_Susovan Bag_Musquare Technologies.docx,1,Internship,Reactjs,"SUSOVAN  BAG   
+Seeking  a  challenging  position  in  the  field  of  science  and  technology  to  utilize  my  skills  for  organization  and  individual  growth  and  to  enhance  my  knowledge  from  my  academic  learning  to  give  my  best  to  the  organization.   
+SKILLS  
+CCNA -   Routing  &  Switching  subnetting  
+Programming:  C,   C++,Java,  HTML,CSS,  SQL   
+OOPS,  Algorithms,  Data  Structures,DBMS,  Networking  
+	OS  (Linux): Linux 	  System  Administration  with  Troubleshooting  
+SOFT  SKILLS  
+	 Leadership, 	  Collaboration,  Good  communication  and  customer  Handling  skills.  
+LANGUAGES  
+	  English(Fluent), 	  Hindi(Fluent),  Bengali(Native),  Telugu  
+PROJECTS   
+SMART  AGRICULTURE   
+Built  a  product  for  farmers  using  IoT  as  a  solution     
+AUTOMATIC  WATER  MOTOR  CONTROLLER  (2019 -   2020)    
+IoT,  android  and  API  technologies  combined  to  automate  work  of  water  motor  controllers  using  sensors.   
+BOOKSTORE  MANAGEMENT  INTERFACE: C PP  (2018  -  2019)    
+Manage  the  purchase  and  return  of  books  in  a  books  store.    
+HOTEL  MANAGEMENT  SYSTEM(DEC - 2018)  
+Designed  a  front  end  module  for  the  hotel  management  system  website  using  HTML,CSS  .  
+ONLINE  MOVIE  TICKET  BOOKING    
+Designed  a  fully  functioning  website  using  HTML,CSS,Javascript.`  
+EDUCATION  BACKGROUND   
+	Lovely  Professional  University 	 Punjab, 	  India.  
+B-Tech  in  computer  science  and   Engineering                                                                        7.22  gpa,  2020.    
+	   HOBBIES :Web  Surfing,  Cricket,Carrom,Chess .  	  
+/
+/",0.026318276735574034,0.17364496513548244,0.462695925082522,0.19455875447651028,0.1427820785699112
+40,Data set\Resumes\SQL Developer Lightning insight\Vinod B.docx,unzipped_files\Data set\Resumes\SQL Developer Lightning insight\Vinod B.docx,40,SQL Developer Lightning insight,SQL Developer Lightning insight,"B. vinod kumar
+OBJECTIVE:
+Willing to work under a challenging and professional environment with exposure to new technologies as an SQL and MSBI developer in the area of SQL SERVER 2014, 2016 with Enterprise Portal and where there is a scope for Organizational growth as well as individual growth.
+Professional summary:
+Having around 2.2Years of IT Experience in Microsoft Business Intelligence (MSBI) under SQL server environment, with through knowledge of SQL server 2014,2016 databases.
+Extensive experience on Joins, Set Operators, Table Variables, Temporary Tables, CTE & Sub Queries.
+Good experience in writing Simple and sample SQL queries.
+Experience in Developing Stored Procedures and User defined functions.
+Hands on Experience Triggers , views, cursor and synonyms.
+Experience on Writing SQL using joins, sub queries.
+Good at generating multiple reports using SSRS from SQL server database and included various reporting features such as Drill-Down, Drill-Through, Cascading Reports and Sub Reports.
+Experience in importing/exporting data between different sources like Excel/Flatfile etc.
+Good experience on Backups & Restoring into different Servers.
+Hands on Exeperience on different transformations like Data conversion, Derived coloumn, Look up, Merge join, Union All, Sort, Fuzzy lookup.
+Good Experience on Ranking, Aggregate and String Functions.
+Experience on Design and development of SQL Server Integration Services(SSIS) packages and using various control flow tasks like Data floe task and Excute SQL task and containres like For Loop container and sequence container and For -each container.
+Experience on deploying the reports and creating subscriptions to send the reports on schedule basis.
+EDUCATIONAL BACKGROUND:
+B.Tech (computer science and engineering),JNTU,Ananthapuramu.
+PROFESSIONAL EXPERIENCE:
+Working in united health group as a Software Engineer, Bangalore since may-2019 to till date.
+TECHNICAL SKILLS:
+Technologies	: Microsoft Business Intelligence Tools (MSBI)
+Languages	: SQL, T-SQL.
+ETL Tools	: SQL Server Integration Services.
+Reporting Tools	: SQL Server Reporting Services
+PROJECT DETAILS:
+Client: Uk
+Project: National skill Development corporation
+Role: SQL Server and SSIS developer
+Envirnoment : SSIS, SSRS and MS SQL Server.
+Project 1: National Skill Development Corporation (NSDC)
+Client	: National Skill Development Corporation (INDIA) Role	: SQL Developer
+Environment	: SQL Server, Nano-BI. Duration	: May 2019 to till now.
+Description:
+NSDC Provides training / placements to people across the country through SIP across specific skill sets. Under NSDC there are multiple scheme types like PMKVY, Non-PMKVY and Fee-Based, Based on scheme type candidates will enroll to the batches under particular training centres. In every batch minimum 10 candidates can enroll. After enrolling candidates will go for Training then these candidates will go for assessment and Failed candidates can apply for re-assessment and the candidates who are passed will go for the certification. And the certified candidates will get placement through NSDC.
+ROLES AND RESPONSIBILITIES:
+By using NANO BI Analytical tool creating tables.
+Developed ETL Scripts to populate the data from different tables by using joins, CTE’s and Date functions.
+By using NANO BI Analytical tool creating tables.
+Involved in Creating analytics with measures and dimensions to populate data and created dashboard to clients by their requirement.
+Responsible for Creating and Modifying T-SQL stored procedures for validating the integrity of the data.
+Responsible for writing complex SQL Queries, Joins, Constraints, DDL, DML Date Functions to implement the business logic.
+Experience in creating different types of Reports according to the user request by using NANO BI Analytical tool.
+Involved in deploying and scheduling the reports using Report Emailer.
+Involved in scheduling the Stored procedures to refresh the data on every day using Workflows in NANO BI.
+B. Vinod kumar",0.023661249017465018,0.14705469163484375,0.19441020193474245,0.4956573067353189,0.13921655067762986
